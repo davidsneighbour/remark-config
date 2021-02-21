@@ -2,7 +2,7 @@
 
 This is a remark preset used across DNB projects.
 
-It is based on [remark-preset-lint-recommended](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-preset-lint-recommended) with some additions on it's own.
+This configuration is based on [remark-preset-lint-recommended](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-preset-lint-recommended) with some additions on it's own.
 
 You probably won't need this ;)
 
@@ -26,4 +26,3 @@ Put the following into `.remarkrc` in the root of your project. Remove the `writ
 ```
 
 ### Remark Setup Rules
-
